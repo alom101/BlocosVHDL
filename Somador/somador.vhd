@@ -1,12 +1,11 @@
 library IEEE;
 use IEEE.Std_Logic_1164.all;
 
---  _________________________________________
--- |					Meio Somador 					|
--- | 														|
--- |	feito por Arthur Leones Osorio Machado	|
--- |_________________________________________|
+
+--                      MEIO SOMADOR
 --
+-- feito por Arthur Leones Osorio Machado
+-- disponível em https://github.com/alom101/BlocosVHDL.git
 
 entity somador is
 	port(

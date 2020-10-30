@@ -1,12 +1,10 @@
 library IEEE;
 use IEEE.Std_Logic_1164.all;
 
---  _________________________________________
--- |					Somador Generico 				|
--- | 														|
--- |	feito por Arthur Leones Osorio Machado	|
--- |_________________________________________|
+--                SOMADOR GENÉRICO DE N BITS
 --
+-- feito por Arthur Leones Osorio Machado
+-- disponível em https://github.com/alom101/BlocosVHDL.git
 
 entity somador_nbits is
 	generic 	(

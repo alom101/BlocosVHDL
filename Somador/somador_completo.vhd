@@ -1,12 +1,10 @@
 library IEEE;
 use IEEE.Std_Logic_1164.all;
 
---  _________________________________________
--- |					Somador Completo 				|
--- | 														|
--- |	feito por Arthur Leones Osorio Machado	|
--- |_________________________________________|
+--                      SOMADOR COMPLETO
 --
+-- feito por Arthur Leones Osorio Machado
+-- disponível em https://github.com/alom101/BlocosVHDL.git
 
 entity somador_completo is
 	port(

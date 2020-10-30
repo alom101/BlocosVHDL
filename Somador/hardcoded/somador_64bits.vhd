@@ -2,12 +2,10 @@ library IEEE;
 use IEEE.Std_Logic_1164.all;
 
 
---  _________________________________________
--- |		Somador de 32 bits com carry out 	|
--- | 														|
--- |	feito por Arthur Leones Osorio Machado	|
--- |_________________________________________|
+--                     SOMADOR 64 BITS
 --
+-- feito por Arthur Leones Osorio Machado
+-- disponível em https://github.com/alom101/BlocosVHDL.git
 
 entity somador_64bits is
 	port(

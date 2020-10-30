@@ -2,12 +2,10 @@ library IEEE;
 use IEEE.Std_Logic_1164.all;
 
 
---  _________________________________________
--- |		Somador de 4 bits com carry out 		|
--- | 														|
--- |	feito por Arthur Leones Osorio Machado	|
--- |_________________________________________|
+--                     SOMADOR 4 BITS
 --
+-- feito por Arthur Leones Osorio Machado
+-- disponível em https://github.com/alom101/BlocosVHDL.git
 
 entity somador_4bits is
 	port(
