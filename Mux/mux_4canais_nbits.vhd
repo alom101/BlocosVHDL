@@ -19,7 +19,7 @@ end mux_4canais_nbits;
 
 architecture arch of mux_4canais_nbits is
 
-    signal S1,S2: std_logic;
+    signal S1,S2: std_logic_vector(nbits-1 downto 0);
 
     component mux_2canais_nbits is
         generic (
