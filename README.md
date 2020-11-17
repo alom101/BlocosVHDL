@@ -3,9 +3,8 @@ Blocos VHDL feitos para a disciplina de Circuitos e T√©cnicas Digitais. A princ√
 
 # Para fazer:
 - Somador com carry antecipado
-- Comparador
 - Decodificadorer (BCD, 7seg, Gray, Decimal)
-- Mux/Demux
+- Demux
 - Contador
 - Registrador
 - Registrador de deslocamento
